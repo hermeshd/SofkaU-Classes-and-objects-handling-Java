@@ -9,4 +9,4 @@ Here you will find 7 different files: 6 files corresponding to 6 different class
 
 Each class contains an object. Public, private and protected attributes and methods are created across all classes.
 
-The "main" class can be used to test the creation of objects using the other classes. For example: `Computer test = new Computer();`will create a new Computer object and `test.setLoginInfo("demo", "demo1");` will make use of one of this class's methods.
+The "main" class can be used to test the creation of objects using the other classes. For example: `Computer test = new Computer();` will create a new Computer object and `test.setLoginInfo("demo", "demo1");` will make use of one of this class's methods.
